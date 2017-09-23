@@ -1,0 +1,28 @@
+This is the output of my first program.
+Allina Khan
+
+		Values of Y and X
+X =		Y =			Message:
+-3		-5.68325      		Y is negative
+-2.5		-7.46301      		Y is negative
+-2		-10.9547      		Y is negative
+-1.5		-25.6905      		Y is negative
+-1		-3.33333      		Y is negative
+-0.5		0.978376       		Y is positive
+0		2       		Y is positive
+0.5		0.69884       		Y is positive
+1		-1.66667      		Y is negative
+1.5		-8.5635      		Y is negative
+2		-2.19095      		Y is negative
+2.5		-0.678455      		Y is negative
+3		0       		Y is zero.
+3.5		0.35134       		Y is positive
+4		0.542636       		Y is positive
+
+The closest y-value to ten is 2 and the corresponding x-value is 0
+The y-value is 8 points away from 10.
+
+number of Y values when: 
+Positive: 5	Negative: 9	Zero: 1
+
+The program is halting.
