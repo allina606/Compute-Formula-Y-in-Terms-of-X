@@ -1,4 +1,4 @@
 # Compute Formula Y in Terms of X
 Using C++ built in functions to compute a formula for different values of x. 
 
-![alt text](Compute-Formula-Y-in-Terms-of-X/Screenshot 2017-09-23 at 12.47.04 AM.png)
+!(Compute-Formula-Y-in-Terms-of-X/Screenshot 2017-09-23 at 12.47.04 AM.png)
